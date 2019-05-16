@@ -12,7 +12,7 @@ import android.view.animation.AnimationUtils;
 import android.view.animation.Interpolator;
 
 public class MainActivity extends AppCompatActivity {
-
+       //Animación escala en el floating action button
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
